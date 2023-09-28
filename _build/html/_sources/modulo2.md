@@ -4,7 +4,7 @@
 ## 2.1 Fundamentos de Scrum.
 
 ### Desafíos Comunes en la Gestión de Proyectos Tradicional.
-![title]('../images/student_team_working_3.jpg')
+![title]('.../images/student_team_working_3.jpg')
 
 La gestión de proyectos tradicional se ha caracterizado por una serie de desafíos que a menudo dificultan el éxito de los proyectos. Algunos de estos desafíos incluyen:
 
