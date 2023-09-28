@@ -1,5 +1,13 @@
 # Guía de Aprendizaje de Metodologías Ágiles
 
+### Integrantes:
+
+* Ramiro L. Ramirez Coronel
+* Jorge A. López Vargas
+* Juan C. Morocho Yunga
+* René R. Elizalde Solano
+
+
 Módulo 1: Introducción a las Metodologías Ágiles (4 horas)
 
     1.1 Historia y evolución de las Metodologías Ágiles.
@@ -98,7 +106,7 @@ Módulo 11: Futuro de las Metodologías Ágiles (4 horas)
 
     11.2 Integración de tecnologías avanzadas en las Metodologías Ágiles.
 
-    11.3 Preparación para el futuro en entornos ágiles. 
+    11.3 Preparación para el futuro en entornos ágiles.
 
 
 ```{tableofcontents}
