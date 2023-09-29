@@ -1,9 +1,10 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: Guía de Aprendizaje de Metodologías Ágiles
+author: Ramiro / Jorge / Juan Carlos / René
+# logo: logo.png
+logo: _images/DreamShaper_v7_logo_about_agile_methodologies_1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
