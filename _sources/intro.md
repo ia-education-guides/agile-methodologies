@@ -7,107 +7,139 @@
 * Juan C. Morocho Yunga
 * René R. Elizalde Solano
 
+### Presentación
 
-Módulo 1: Introducción a las Metodologías Ágiles (4 horas)
+Esta guía de enseñanza sobre Metodologías Ágiles, potenciada por ChatGPT, es una valiosa herramienta para aquellos que desean adentrarse en el emocionante mundo del desarrollo de software ágil. A través de una cuidadosa estructura de aprendizaje, los estudiantes explorarán las raíces históricas de las Metodologías Ágiles, comprendiendo cómo surgieron como respuesta a las limitaciones de enfoques tradicionales. Además, se sumergirán en los principios fundamentales del Manifiesto Ágil y descubrirán cómo estos principios han revolucionado la forma en que se desarrolla software en la actualidad, priorizando la satisfacción del cliente, la colaboración y la adaptabilidad.
 
-    1.1 Historia y evolución de las Metodologías Ágiles.
+Durante el transcurso de esta guía, los estudiantes también se beneficiarán del apoyo de ChatGPT para profundizar en los marcos de trabajo más populares, como Scrum y Kanban. ChatGPT proporcionará una comprensión práctica de cómo se aplican los conceptos ágiles en entornos reales de desarrollo de software, a través de interacciones dinámicas y ejemplos concretos. Con un enfoque en la interacción continua, la entrega incremental y la flexibilidad, esta guía impulsada por ChatGPT permitirá a los estudiantes no solo comprender los fundamentos teóricos de las Metodologías Ágiles, sino también adquirir habilidades prácticas que pueden aplicar en proyectos de desarrollo de software de la vida real.
 
-    1.2 Principios y valores del Manifiesto Ágil.
+### Temario
 
-    1.3 Ventajas y desventajas de las Metodologías Ágiles.
+* El listado se lo obtuvo a través del siguiente PROMPT en ChatGPT: **Me ayudas con un listado de temas para la enseñanza de Metodologías Ágiles para estudiantes de CIencias de Computación**
 
-Módulo 2: Scrum (16 horas)
+#### Módulo 1: Introducción a las Metodologías Ágiles (4 horas)
 
-    2.1 Fundamentos de Scrum.
+1.1 Historia y evolución de las Metodologías Ágiles.
 
-    2.2 Roles en Scrum: Scrum Master, Product Owner, Equipo de Desarrollo.
+1.2 Principios y valores del Manifiesto Ágil.
 
-    2.3 Eventos de Scrum: Sprint, Reunión de Planificación, Reunión Diaria, Revisión del Sprint, Retrospectiva del Sprint.
+1.3 Ventajas y desventajas de las Metodologías Ágiles.
 
-    2.4 Artefactos de Scrum: Product Backlog, Sprint Backlog, Incremento.
+<hr>
 
-    2.5 Prácticas avanzadas de Scrum.
+#### Módulo 2: Scrum (16 horas)
 
-Módulo 3: Kanban (8 horas)
+2.1 Fundamentos de Scrum.
 
-    3.1 Principios de Kanban.
+2.2 Roles en Scrum: Scrum Master, Product Owner, Equipo de Desarrollo.
 
-    3.2 Implementación de un sistema Kanban.
+2.3 Eventos de Scrum: Sprint, Reunión de Planificación, Reunión Diaria, Revisión del Sprint, Retrospectiva del Sprint.
 
-    3.3 Gestión visual y limitaciones de trabajo en progreso (WIP).
+2.4 Artefactos de Scrum: Product Backlog, Sprint Backlog, Incremento.
 
-    3.4 Métricas y mejora continua con Kanban.
+2.5 Prácticas avanzadas de Scrum.
 
-Módulo 4: Extreme Programming (XP) (8 horas)
+<hr>
 
-    4.1 Valores y principios de XP.
+#### Módulo 3: Kanban (8 horas)
 
-    4.2 Prácticas de desarrollo de XP: Programación en Pareja, Pruebas Unitarias, Integración Continua, Refactorización, etc.
+3.1 Principios de Kanban.
 
-    4.3 Técnicas de diseño ágil.
+3.2 Implementación de un sistema Kanban.
 
-    4.4 Pruebas automatizadas en XP.
+3.3 Gestión visual y limitaciones de trabajo en progreso (WIP).
 
-Módulo 5: Lean Startup y Validación de Ideas (8 horas)
+3.4 Métricas y mejora continua con Kanban.
 
-    5.1 Métodos Lean para la validación de ideas y productos.
+<hr>
 
-    5.2 Construcción medible y aprendizaje validado.
+#### Módulo 4: Extreme Programming (XP) (8 horas)
 
-    5.3 Iteraciones y pivotes en el proceso de desarrollo.
+4.1 Valores y principios de XP.
 
-    5.4 Lean Startup en la gestión de productos.
+4.2 Prácticas de desarrollo de XP: Programación en Pareja, Pruebas Unitarias, Integración Continua, Refactorización, etc.
 
-Módulo 6: Escalando Metodologías Ágiles (6 horas)
+4.3 Técnicas de diseño ágil.
 
-    6.1 Métodos para escalar ágil en organizaciones grandes.
+4.4 Pruebas automatizadas en XP.
 
-    6.2 Frameworks de escalamiento ágil, como SAFe (Scaled Agile Framework) y LeSS (Large-Scale Scrum).
+<hr>
 
-    6.3 Retos y estrategias para la adopción ágil a gran escala.
+#### Módulo 5: Lean Startup y Validación de Ideas (8 horas)
 
-Módulo 7: Cultura Ágil y Trabajo en Equipo (8 horas)
+5.1 Métodos Lean para la validación de ideas y productos.
 
-    7.1 Fomentar una cultura ágil en equipos y organizaciones.
+5.2 Construcción medible y aprendizaje validado.
 
-    7.2 Colaboración efectiva entre equipos multifuncionales.
+5.3 Iteraciones y pivotes en el proceso de desarro#### llo.
 
-    7.3 Comunicación y resolución de conflictos en entornos ágiles.
+5.4 Lean Startup en la gestión de productos.
 
-    7.4 Liderazgo ágil y empoderamiento de equipos.
+<hr>
 
-Módulo 8: Herramientas Ágiles (6 horas)
+#### Módulo 6: Escalando Metodologías Ágiles (6 horas)
 
-    8.1 Herramientas para la gestión de proyectos ágiles, como Jira, Trello, Asana, etc.
+6.1 Métodos para escalar ágil en organizaciones grandes.
 
-    8.2 Configuración y uso de herramientas ágiles.
+6.2 Frameworks de escalamiento ágil, como SAFe (Scaled Agile Framework) y LeSS (Large-Scale Scrum).
 
-    8.3 Integración de herramientas con metodologías ágiles.
+6.3 Retos y estrategias para la adopción ágil a gr#### an escala.
 
-Módulo 9: Casos de Estudio y Ejemplos Prácticos (6 horas)
+<hr>
 
-    9.1 Estudios de casos de implementaciones ágiles exitosas.
+#### Módulo 7: Cultura Ágil y Trabajo en Equipo (8 horas)
 
-    9.2 Ejemplos de proyectos ágiles en diversas industrias.
+7.1 Fomentar una cultura ágil en equipos y organizaciones.
 
-    9.3 Análisis y discusión de casos reales.
+7.2 Colaboración efectiva entre equipos multifuncionales.
 
-Módulo 10: Desafíos y Consideraciones Éticas (4 horas)
+7.3 Comunicación y resolución de conflictos en entornos ágiles.
 
-    10.1 Desafíos comunes al adoptar Metodologías Ágiles.
+7.4 Liderazgo ágil y empoderamiento de equ#### ipos.
 
-    10.2 Consideraciones éticas en la toma de decisiones ágiles.
+<hr>
 
-    10.3 Responsabilidad en el desarrollo de software ágil.
+#### Módulo 8: Herramientas Ágiles (6 horas)
 
-Módulo 11: Futuro de las Metodologías Ágiles (4 horas)
+8.1 Herramientas para la gestión de proyectos ágiles, como Jira, Trello, Asana, etc.
 
-    11.1 Tendencias emergentes en el desarrollo ágil.
+8.2 Configuración y uso de herramientas ágiles.
 
-    11.2 Integración de tecnologías avanzadas en las Metodologías Ágiles.
+8.3 Integración de herramientas con metodo#### logías ágiles.
 
-    11.3 Preparación para el futuro en entornos ágiles.
+<hr>
 
+#### Módulo 9: Casos de Estudio y Ejemplos Prácticos (6 horas)
+
+9.1 Estudios de casos de implementaciones ágiles exitosas.
+
+9.2 Ejemplos de proyectos ágiles en diversas industrias.
+
+9.3 Análisis y discusión de casos reales.
+
+<hr>
+
+#### Módulo 10: Desafíos y Consideraciones Éticas (4 horas)
+
+10.1 Desafíos comunes al adoptar Metodologías Ágiles.
+
+10.2 Consideraciones éticas en la toma de decisiones ágiles.
+
+10.3 Responsabilidad en el desarrollo de software ágil.
+
+<hr>
+
+#### Módulo 11: Futuro de las Metodologías Ágiles (4 horas)
+
+11.1 Tendencias emergentes en el desarrollo ágil.
+
+11.2 Integración de tecnologías avanzadas en las Metodologías Ágiles.
+
+11.3 Preparación para el futuro en entornos ágiles.
+
+<hr>
+
+**Importante**: en la presente guía se desarrollará el contenido de los módulo 1 y 2.
 
 ```{tableofcontents}
 ```
