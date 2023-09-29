@@ -27,12 +27,6 @@ La aparición de Scrum como respuesta a estas necesidades. Scrum surgió como un
 * Colaboración Activa: Fomenta la colaboración constante entre todos los miembros del equipo, lo que mejora la comunicación y la toma de decisiones.
 * Enfoque en la Calidad: Scrum se centra en la entrega de un producto de alta calidad al final de cada Sprint.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-
-<video width="630" height="300" src="_videos/test1.mp4"></video>
-
 
 ### Ejemplos de problemas en proyectos tradicionales.
 * Desviaciones de Presupuesto y Plazos: Los proyectos a menudo exceden sus presupuestos y plazos originales debido a la falta de flexibilidad.
@@ -62,6 +56,9 @@ El Product Owner es el encargado de optimizar y maximizar el valor del producto,
 El Equipo de Desarrollo es responsable de su propio trabajo. Sus responsabilidades incluyen informar sobre cualquier impedimento que afecte su progreso, actualizar su progreso diario en el scrumboard, trabajar juntos para lograr cada objetivo en el itinerario, agregar elementos de acción real en la reunión retrospectiva que hará cumplir la regla más importante en Scrum de mejora continua, convertir los elementos del product backlog en incrementos de producto, realizar las estimaciones de cada elemento del product backlog, solucionar cualquier problema interno dentro del equipo, crear un incremento terminado a partir de los elementos del Product Backlog seleccionados (Sprint Backlog) durante el Sprint Planning¹³.
 
 En resumen, cada rol en Scrum tiene sus propias responsabilidades y buenas prácticas para ejecutarlas. El éxito del proyecto depende en gran medida de cómo estos roles interactúan y trabajan juntos para lograr los objetivos del proyecto.
+
+<video  auto-play="true" loop="loop" width="630" height="300" src="https://github.com/ia-education-guides/agile-methodologies/raw/main/_videos/test1.mp4"></video>
+
 
 Origen: Conversación con Bing, 13/9/2023
 
