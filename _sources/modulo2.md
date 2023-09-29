@@ -57,7 +57,7 @@ El Equipo de Desarrollo es responsable de su propio trabajo. Sus responsabilidad
 
 En resumen, cada rol en Scrum tiene sus propias responsabilidades y buenas prácticas para ejecutarlas. El éxito del proyecto depende en gran medida de cómo estos roles interactúan y trabajan juntos para lograr los objetivos del proyecto.
 
-<video  auto-play="true" loop="loop" width="630" height="300" src="https://github.com/ia-education-guides/agile-methodologies/raw/main/_videos/test1.mp4"></video>
+<video controls="controls" width="630" height="300" src="https://github.com/ia-education-guides/agile-methodologies/raw/main/_videos/test1.mp4"></video>
 
 
 Origen: Conversación con Bing, 13/9/2023
