@@ -6,3 +6,4 @@ root: intro
 chapters:
 - file: modulo1.md
 - file: modulo2.md
+- file: herramientas.md
