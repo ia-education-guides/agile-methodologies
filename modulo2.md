@@ -31,6 +31,9 @@ La aparición de Scrum como respuesta a estas necesidades. Scrum surgió como un
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 
+<video width="630" height="300" src="_videos/test1.mp4"></video>
+
+
 ### Ejemplos de problemas en proyectos tradicionales.
 * Desviaciones de Presupuesto y Plazos: Los proyectos a menudo exceden sus presupuestos y plazos originales debido a la falta de flexibilidad.
 * Cambios No Gestionados: Los cambios en los requisitos pueden ser costosos y llevar a retrasos significativos en los proyectos tradicionales.
