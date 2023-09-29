@@ -2,10 +2,10 @@
 
 ### Integrantes:
 
-* Ramiro L. Ramirez Coronel
-* Jorge A. López Vargas
-* Juan C. Morocho Yunga
-* René R. Elizalde Solano
+* Ramiro L. Ramirez Coronel [<a href="https://twitter.com/rlramirez" target="_blank">rlramirez</a>]
+* Jorge A. López Vargas [<a href="https://twitter.com/jorgaf" target="_blank">jorgaf</a>]
+* Juan C. Morocho Yunga [<a href="https://twitter.com/jcmorocho" target="_blank">jcmorocho</a>]
+* René R. Elizalde Solano [<a href="https://twitter.com/reroes" target="_blank">reroes</a>]
 
 ### Presentación
 
